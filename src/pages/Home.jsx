@@ -1,6 +1,7 @@
 import Hero from "../components/sections/Hero";
 import Stats from "../components/sections/Stats";
 import AboutPreview from "../components/sections/AboutPreview";
+import CEOSection from "../components/sections/CEOSection";
 import ServicesPreview from "../components/sections/ServicesPreview";
 import FeaturedProjects from "../components/sections/FeaturedProjects";
 import Process from "../components/sections/Process";
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <Stats />
       <AboutPreview />
+      <CEOSection />
       <ServicesPreview />
       <FeaturedProjects />
       <Process />
