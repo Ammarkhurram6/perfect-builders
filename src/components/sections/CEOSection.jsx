@@ -48,7 +48,7 @@ export default function CEOSection() {
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
               "At Perfect Builders, we don’t just construct buildings; we build
               lasting relationships and bring architectural visions to life. For
-              over 15 years, my team and I have been dedicated to redefining the
+              over 36 years, my team and I have been dedicated to redefining the
               construction industry through precision, transparency, and
               uncompromising quality.
             </p>
